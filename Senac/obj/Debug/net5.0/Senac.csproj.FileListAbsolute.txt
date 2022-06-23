@@ -1,0 +1,12 @@
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.deps.json
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.dll
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\ref\Senac.dll
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.pdb
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.csproj.AssemblyReference.cache
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.AssemblyInfoInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.AssemblyInfo.cs
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.csproj.CoreCompileInputs.cache
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.dll
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\ref\Senac.dll
+C:\Users\eloisa.anibaletto\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.pdb
